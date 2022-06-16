@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/elijohnson565/Social-Network-API#readme",
   "dependencies": {
+    "express": "^4.18.1",
     "mongoose": "^6.3.8"
   }
 }
